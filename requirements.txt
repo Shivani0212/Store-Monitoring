@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+psycopg2
+celery
+redis
+pandas
+alembic
+pandas
+asyncpg
+python-dotenv
